@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Test file!" 
+echo "Test file! From Git" 
