@@ -1,2 +1,2 @@
 # GeekBrains
-Test project for lesson 7
+'''Test project for lesson 7'''
